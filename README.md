@@ -2,7 +2,7 @@
   
 <!-- Efeito de digitação animado -->
 <a href="https://git.io/typing-svg">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Ricardo+Alves;Desenvolvedor+Front-end;Experi%C3%AAncia+Full-Stack](https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif)" />
+  <img src="Streamer Pixel Art - Ken Cremona.gif"/>
 </a>
 
 </div>
