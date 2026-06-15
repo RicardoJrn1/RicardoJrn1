@@ -116,7 +116,7 @@ Desenvolvedor Front-end com experiência Full-Stack e formação em Ciência da 
     <td width="50%" valign="top">
       <h3 align="center">📊 Assessoria 74</h3>
       <div align="center">
-        <a href="https://github.com/RicardoJrn1/assessoria-74" target="_blank">
+        <a href="https://assessoria74.com" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=assessoria-74&theme=radical&hide_border=true&bg_color=0D1117" />
         </a>
       </div>
@@ -129,7 +129,7 @@ Desenvolvedor Front-end com experiência Full-Stack e formação em Ciência da 
       <div align="center">
         <br>
         <a href="https://github.com/RicardoJrn1/assessoria-74"><img src="https://img.shields.io/badge/Código-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Demo-4A00E0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://assessoria74.com"><img src="https://img.shields.io/badge/Demo-4A00E0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </div>
     </td>
   </tr>
@@ -137,7 +137,7 @@ Desenvolvedor Front-end com experiência Full-Stack e formação em Ciência da 
     <td width="50%" valign="top">
       <h3 align="center">⚙️ Redimaq</h3>
       <div align="center">
-        <a href="https://github.com/RicardoJrn1/redimaq" target="_blank">
+        <a href="https://www.redimaq.com.br" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=redimaq&theme=radical&hide_border=true&bg_color=0D1117" />
         </a>
       </div>
@@ -150,7 +150,7 @@ Desenvolvedor Front-end com experiência Full-Stack e formação em Ciência da 
       <div align="center">
         <br>
         <a href="https://github.com/RicardoJrn1/redimaq"><img src="https://img.shields.io/badge/Código-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Demo-4A00E0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://www.redimaq.com.br"><img src="https://img.shields.io/badge/Demo-4A00E0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       </div>
     </td>
     <td width="50%" valign="top" align="center">
