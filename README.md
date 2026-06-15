@@ -6,7 +6,7 @@
 <!-- EFEITO DE DIGITAÇÃO NEON -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=550&lines=Criando+interfaces+modernas+e+performáticas;React+%7C+Next.js+%7C+TypeScript;Sempre+aprendendo+algo+novo+%E2%9A%A1" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=550&lines=Dev+Full+-+Stack;React+%7C+Next.js+%7C+TypeScript;" />
   </a>
 </div>
 
@@ -85,20 +85,81 @@ Desenvolvedor Front-end com experiência Full-Stack e formação em Ciência da 
   <img src="https://github.com/RicardoJrn1/RicardoJrn1/blob/output/snake.svg" />
 </div>
 
----
-
-### 📌 Projetos em Destaque
-
+<!-- SEÇÃO DE PROJETOS -->
 <div align="center">
-  <a href="https://github.com/RicardoJrn1/jogo-do-numero-secreto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=jogo-do-numero-secreto&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/RicardoJrn1/Alura-Plus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=Alura-Plus&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=45&section=header&text=%F0%9F%9A%80%20Projetos%20em%20Destaque&fontColor=ffffff&fontSize=22&fontAlignY=55" />
 </div>
 
-<!-- RODAPÉ COM ONDA -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
-</div>
+<br>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Meu Portfólio</h3>
+      <div align="center">
+        <a href="https://meu-portfolio-ricardo-alves.vercel.app" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=meu-portfolio&theme=radical&hide_border=true&bg_color=0D1117" />
+        </a>
+      </div>
+      <p align="center">Meu portfólio pessoal com projetos e contato.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </div>
+      <div align="center">
+        <br>
+        <a href="https://github.com/RicardoJrn1/meu-portfolio"><img src="https://img.shields.io/badge/Código-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://meu-portfolio-ricardo-alves.vercel.app"><img src="https://img.shields.io/badge/Demo-4A00E0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Assessoria 74</h3>
+      <div align="center">
+        <a href="https://github.com/RicardoJrn1/assessoria-74" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=assessoria-74&theme=radical&hide_border=true&bg_color=0D1117" />
+        </a>
+      </div>
+      <p align="center">Site institucional para assessoria de negócios.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </div>
+      <div align="center">
+        <br>
+        <a href="https://github.com/RicardoJrn1/assessoria-74"><img src="https://img.shields.io/badge/Código-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Demo-4A00E0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Redimaq</h3>
+      <div align="center">
+        <a href="https://github.com/RicardoJrn1/redimaq" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=redimaq&theme=radical&hide_border=true&bg_color=0D1117" />
+        </a>
+      </div>
+      <p align="center">Plataforma para o segmento de máquinas e equipamentos.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </div>
+      <div align="center">
+        <br>
+        <a href="https://github.com/RicardoJrn1/redimaq"><img src="https://img.shields.io/badge/Código-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Demo-4A00E0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      </div>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <br><br><br>
+      <h3>✨ E muito mais...</h3>
+      <p>Explore todos os meus repositórios no GitHub.</p>
+      <a href="https://github.com/RicardoJrn1?tab=repositories">
+        <img src="https://img.shields.io/badge/Ver%20todos%20os%20projetos-8E2DE2?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
