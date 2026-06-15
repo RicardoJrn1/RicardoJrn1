@@ -1,9 +1,15 @@
-<h1 align="center">Olá, eu sou Ricardo Alves 👋</h1>
+<div align="center">
+  
+<!-- Efeito de digitação animado -->
+<a href="https://git.io/typing-svg">
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Ricardo+Alves;Desenvolvedor+Front-end;Experi%C3%AAncia+Full-Stack](https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif)" />
+</a>
 
-<p align="center">
-  <b>Desenvolvedor Front-end</b> com experiência Full-Stack e formação em Ciência da Computação.<br>
-  Foco na criação de interfaces modernas, responsivas, performáticas e bem estruturadas.
-</p>
+</div>
+
+<div align="center">
+  <img src="COLE_AQUI_O_LINK_DO_SEU_GIF" width="320" />
+</div>
 
 <p align="center">
   <a href="https://meu-portfolio-ricardo-alves.vercel.app">
@@ -21,12 +27,11 @@
 
 ### 💻 Sobre mim
 
-Desenvolvo aplicações completas, atuando bem tanto na **construção da interface** quanto na **comunicação com os serviços** da aplicação. Trabalho com componentização, responsividade, performance, organização de código e entrega de soluções alinhadas ao produto e ao negócio.
+Desenvolvedor Front-end com experiência Full-Stack e formação em Ciência da Computação. Foco na criação de interfaces **modernas, responsivas e performáticas**, atuando bem tanto na construção da interface quanto na comunicação com os serviços da aplicação.
 
 - 🔭 Trabalhando com **React, Next.js e TypeScript**
 - 🌱 Aprofundando em arquitetura de aplicações e back-end
 - 💬 Integração com **APIs REST** e estruturação de aplicações completas
-- 📫 Como me encontrar: confira meus links acima
 
 ---
 
