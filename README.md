@@ -7,10 +7,6 @@
 
 </div>
 
-<div align="center">
-  <img src="COLE_AQUI_O_LINK_DO_SEU_GIF" width="320" />
-</div>
-
 <p align="center">
   <a href="https://meu-portfolio-ricardo-alves.vercel.app">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
