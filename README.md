@@ -1,10 +1,23 @@
+<!-- BANNER FUTURISTA COM GRADIENTE -->
 <div align="center">
-  
-<!-- Efeito de digitação animado -->
-<a href="https://git.io/typing-svg">
-  <img src="Streamer Pixel Art - Ken Cremona.gif"/>
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Ricardo%20Alves&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-end%20%7C%20Full-Stack&descSize=18&descAlignY=58" />
+</div>
 
+<!-- EFEITO DE DIGITAÇÃO NEON -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=550&lines=Criando+interfaces+modernas+e+performáticas;React+%7C+Next.js+%7C+TypeScript;Sempre+aprendendo+algo+novo+%E2%9A%A1" />
+  </a>
+</div>
+
+<!-- GIF PIXEL ART -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RicardoJrn1/RicardoJrn1/main/pixel-gif.gif" width="320" />
+</div>
+
+<!-- CONTADOR DE VISITAS + BADGES -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RicardoJrn1&label=Profile+views&color=8E2DE2&style=for-the-badge" />
 </div>
 
 <p align="center">
@@ -56,12 +69,16 @@ Desenvolvedor Front-end com experiência Full-Stack e formação em Ciência da 
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RicardoJrn1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoJrn1&layout=compact&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RicardoJrn1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoJrn1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoJrn1&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoJrn1&theme=radical&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RicardoJrn1&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 
 <div align="center">
@@ -74,9 +91,14 @@ Desenvolvedor Front-end com experiência Full-Stack e formação em Ciência da 
 
 <div align="center">
   <a href="https://github.com/RicardoJrn1/jogo-do-numero-secreto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=jogo-do-numero-secreto&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=jogo-do-numero-secreto&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/RicardoJrn1/Alura-Plus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=Alura-Plus&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=Alura-Plus&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
+</div>
+
+<!-- RODAPÉ COM ONDA -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" />
 </div>
