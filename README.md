@@ -119,13 +119,13 @@ Olá! Sou **Ricardo Alves**, Desenvolvedor Full-Stack e bacharel em Ciência da 
       </div>
       <div align="center">
         <br>
-        <a href="https://djguiboh.vercel.app"><img src="https://img.shields.io/badge/Demo-4A00E0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://djguiboh.vercel.app"><img src="home.png" /></a>
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💼 Meu Portfólio</h3>
       <div align="center">
-        <a href="https://meu-portfolio-ricardo-alves.vercel.app" target="_blank">
+        <a href="https://portfolio-ricardo-alves.vercel.app" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=meu-portfolio&theme=radical&hide_border=true&bg_color=0D1117" />
         </a>
       </div>
