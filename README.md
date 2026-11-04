@@ -124,12 +124,15 @@ Olá! Sou **Ricardo Alves**, Desenvolvedor Full-Stack e bacharel em Ciência da 
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💼 Meu Portfólio</h3>
-      <div align="center">
-        <a href="https://portfolio-ricardo-alves.vercel.app" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoJrn1&repo=meu-portfolio&theme=radical&hide_border=true&bg_color=0D1117" />
-        </a>
-      </div>
-      <p align="center">Meu portfólio pessoal com projetos e contato.</p>
+        <p align="center">Meu portfólio pessoal com projetos e contato.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </div>
+      <div align="center">
+        <br>
+        <a href="https://portfolio-ricardo-alves.vercel.app"><img src="home2.png" /></a>
+        </div>
+    </td>
+  </tr>
+        
